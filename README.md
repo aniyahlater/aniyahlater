@@ -5,5 +5,6 @@
 
 Here are some ideas to get you started:
 
-My name is Aniyah McWilliams, a Data Scientist specializing in Artificial Intelligence and Machine Learning Methods, pursuing a Master's in Data Science from the University of Virginia. 
+
 -->
+My name is Aniyah McWilliams, a Data Scientist specializing in Artificial Intelligence and Machine Learning Methods, pursuing a Master's in Data Science from the University of Virginia. 
