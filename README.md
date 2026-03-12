@@ -13,7 +13,7 @@ As a data scientist, I have previous experience in member experience analytics a
 
 * Building powerful predictive machine learning models via the Sci-Kit package in Python
 * Creating clear, user-friendly visualizations using Matplotlib, Seaborn, Plotly, and Tableau
-* Querying Databases using SQL
+* Querying Databases using SQL and experience with relational databases
 
 Outside of my technical skills, I have explored the legal, social and ethical issues regarding data science as a graduate teaching assistant for data ethics. 
 
