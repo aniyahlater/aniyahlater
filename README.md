@@ -17,4 +17,4 @@ As a data scientist, I have previous experience in member experience analytics a
 
 Outside of my technical skills, I have explored the legal, social and ethical issues regarding data science as a graduate teaching assistant for data ethics. 
 
-Please feel free to connect with me to discuss data visualizations, machine learning models, human-focused analytics, healthcare, and psychology. 
+Please feel free to connect with me to discuss data visualizations, machine learning models, human-focused analytics, marketing analytics, healthcare, and psychology. 
